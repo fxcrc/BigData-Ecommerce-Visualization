@@ -1,0 +1,157 @@
+17955	8339	peace road
+11348	3169	beautiful road
+20464	464	wonder street
+15080	4630	blue road 
+19776	8018	peace road
+17990	4541	beautiful road
+13650	3329	wonder street
+16041	9282	blue road 
+15674	4077	peace road
+18915	5751	beautiful road
+18281	4057	wonder street
+12829	5407	blue road 
+18972	3803	peace road
+20732	867	beautiful road
+20093	6030	wonder street
+12260	5283	blue road 
+20379	8424	peace road
+13467	4317	beautiful road
+19911	5180	wonder street
+15948	6466	blue road 
+18211	5997	small cat road
+15455	9556	red flag street
+14185	9856	long stable big street
+15275	1715	peace road
+11962	3213	beautiful road
+16864	1593	wonder street
+14012	1639	blue road 
+15699	189	small cat road
+11496	7846	red flag street
+20732	659	long stable big street
+20093	1401	peace road
+12260	933	beautiful road
+20379	8827	wonder street
+13467	9989	blue road 
+19911	1589	small cat road
+15948	2981	red flag street
+13650		wonder street
+18211	1457	long stable big street
+15455	4087	peace road
+14185	2648	beautiful road
+19911	2488	wonder street
+15948	8339	blue road 
+18211	3169	peace road
+15455	464	beautiful road
+14185	4630	wonder street
+15275	8018	blue road 
+11962	4541	peace road
+16864	3329	beautiful road
+14012	9282	wonder street
+15699	4077	blue road 
+11496	5751	peace road
+11962	4057	beautiful road
+12829	5407	wonder street
+18972	3803	blue road 
+20732	867	peace road
+20093	6030	beautiful road
+12260	5283	wonder street
+20379	8424	blue road 
+16864	4317	small cat road
+14012	5180	red flag street
+15699	6466	long stable big street
+11496	5997	peace road
+20732	9556	beautiful road
+20093	9856	wonder street
+12260	1715	blue road 
+20379	3213	small cat road
+13467	1593	red flag street
+19911	1639	long stable big street
+15948	189	peace road
+11962	7846	beautiful road
+12829	659	wonder street
+18972	1401	blue road 
+20732	933	small cat road
+20093	8827	red flag street
+12260	9989	long stable big street
+20379	1589	blue road 
+16864	2981	peace road
+14012	1457	beautiful road
+15699	4087	wonder street
+11496	2648	blue road 
+20732	2488	peace road
+15455	6030	beautiful road
+14185	5283	wonder street
+15275	8424	blue road 
+11962	4317	small cat road
+16864	5180	red flag street
+14012	6466	long stable big street
+15699	5997	peace road
+11496	9556	beautiful road
+11962	9856	wonder street
+12829	1715	blue road 
+18972	3213	small cat road
+20732	1593	red flag street
+20093	1639	long stable big street
+11348	189	peace road
+20464	7846	beautiful road
+15080	659	wonder street
+19776	1401	blue road 
+17990	933	small cat road
+13650	8827	red flag street
+16041	9989	long stable big street
+15699	1589	peace road
+11496	2981	beautiful road
+11962	1457	wonder street
+12829	4087	blue road 
+18972	2648	peace road
+20732	2488	beautiful road
+20093	8339	wonder street
+12260	3169	blue road 
+20379	464	peace road
+16864	9556	beautiful road
+14012	9856	wonder street
+15699	1715	blue road 
+11496	3213	peace road
+20732	1593	beautiful road
+20093	1639	wonder street
+12260	189	blue road 
+20379	7846	peace road
+13467	659	beautiful road
+19911	1401	wonder street
+15948	933	blue road 
+11962	8827	small cat road
+12829	9989	red flag street
+18972	1589	long stable big street
+20732	2981	peace road
+20093	1457	beautiful road
+11962	4087	wonder street
+11348		peace road
+12829	2648	blue road 
+18972	2488	small cat road
+20732	6030	peking power district
+20093	5283	red flag street
+12260	8424	long stable big street
+20379	4317	peace road
+16864	5180	beautiful road
+14012	6466	wonder street
+15699	5997	blue road 
+11496	9556	small cat road
+20732	9856	peking power district
+15455	1715	poor people road
+14185	3213	common sale street
+15275	1593	wonder street
+11962	1639	blue road 
+16864	189	small cat road
+14012	7846	peking power district
+15699	9989	poor people road
+11496	1589	common sale street
+11962	2981	wonder street
+12829	1457	blue road 
+18972	4087	small cat road
+20732	2648	red flag street
+20093	2488	long stable big street
+11348	8339	peace road
+20464	4087	99 fang road
+15080	2648	rich flowers road
+19776	2488	peace road
+
